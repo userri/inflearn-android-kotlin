@@ -12,3 +12,4 @@
     * [섹션 0. 들어가기에 앞서](https://dreaminsweetpotato.tistory.com/69) 
   * 2023년 8월 11일(금)
     * [섹션 2. 트와이스 앱 만들기](https://dreaminsweetpotato.tistory.com/98)
+    * [섹션 3. 주사위 앱 만들기](https://dreaminsweetpotato.tistory.com/99)
