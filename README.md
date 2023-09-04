@@ -18,5 +18,6 @@
   * 2023년 8월 30일(수)
     * [섹션 4. 명언 앱 만들기(2)](https://dreaminsweetpotato.tistory.com/101)
     * [섹션 5. 트로트가수 음악 목록 만들기(1)](https://dreaminsweetpotato.tistory.com/102)
-    
+    * [섹션 5. 트로트가수 음악 목록 만들기(2)](https://dreaminsweetpotato.tistory.com/103)
+    * [섹션 5. 트로트가수 음악 목록 만들기(3)](https://dreaminsweetpotato.tistory.com/104)
     
