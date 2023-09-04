@@ -8,7 +8,7 @@
 
 
 ### 공부기록
-  * 2023년 7월 2일(일)
+  * 2023년 07월 02일(일)
     * [섹션 0. 들어가기에 앞서](https://dreaminsweetpotato.tistory.com/69) 
   * 2023년 8월 11일(금)
     * [섹션 2. 트와이스 앱 만들기](https://dreaminsweetpotato.tistory.com/98)
@@ -21,3 +21,5 @@
     * [섹션 5. 트로트가수 음악 목록 만들기(2)](https://dreaminsweetpotato.tistory.com/103)
     * [섹션 5. 트로트가수 음악 목록 만들기(3)](https://dreaminsweetpotato.tistory.com/104)
     
+  * 2023년 9월 4일(월)
+    * [섹션 5. 트로트가수 음악 목록 만들기(4)](https://dreaminsweetpotato.tistory.com/105)
