@@ -1,4 +1,4 @@
-<img width="175" alt="image" src="https://github.com/userri/inflearn-android-kotlin/assets/125868433/107486d8-705f-44e1-892c-0e6cc402698c"># inflearn-android-kotlin
+# inflearn-android-kotlin
   - 🐣인프런의 '앱 8개를 만들면서 배우는 안드로이드 코틀린(Android Kotlin)'을 공부하는 레포지토리입니다.
 
   - [❤️ 공부한 것들을 기록하는 Tistory](https://dreaminsweetpotato.tistory.com)
