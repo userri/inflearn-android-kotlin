@@ -24,3 +24,5 @@
   * 2023년 9월 4일(월)
     * [섹션 5. 트로트가수 음악 목록 만들기(4)](https://dreaminsweetpotato.tistory.com/105)
     * [섹션 6. 다이어트 메모 앱 만들기(1)](https://dreaminsweetpotato.tistory.com/106)
+  * 2023년 9월 9일(토)
+    * [섹션 6. 다이어트 메모 앱 만들기(2)](https://dreaminsweetpotato.tistory.com/107)
