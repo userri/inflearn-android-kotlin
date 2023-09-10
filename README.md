@@ -29,4 +29,4 @@
   * 2023년 9월 10일(일)
     * [섹션 6. 다이어트 메모 앱 만들기(4)](https://dreaminsweetpotato.tistory.com/109)
     * [섹션 6. 다이어트 메모 앱 만들기(5)](https://dreaminsweetpotato.tistory.com/110)
-    
+    * [섹션 6. 다이어트 메모 앱 만들기(6)](https://dreaminsweetpotato.tistory.com/111)
